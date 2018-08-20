@@ -1,0 +1,4 @@
+html - head (title and styling and scripts are entered here), h1 main header and size, 
+
+div class = block element..........
+span = inline tag....isolating specific things

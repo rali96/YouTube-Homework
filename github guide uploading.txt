@@ -1,0 +1,12 @@
+git
+
+commit = snapshot
+
+1. git init                creating repo
+2. git add [filename]
+	add . (current directory)
+
+3. git commit -m "first start code"
+
+key 67FCOD....2A,
+
